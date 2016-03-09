@@ -1,6 +1,3 @@
-frontend-nanodegree-arcade-game
-===============================
+By Matt Barker
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
-
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+Open at index.html and you'll use the WASD controls to pilot your character. The objective is to reach the top lane and avoid the bugs. If a bug hits you, you get knocked back to the starting position. If you reach the top lane, you'll be sent back to the starting position. 
